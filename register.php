@@ -98,7 +98,7 @@
       </form>
 
       
-      <a href="index.php" class="text-center">I already a memeber? Login here.</a>
+      <a href="index.php" class="text-center">I already a member? Login here.</a>
     </div>
     <!-- /.form-box -->
   </div><!-- /.card -->
